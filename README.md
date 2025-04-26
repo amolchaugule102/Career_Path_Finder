@@ -20,16 +20,26 @@ Welcome to Career_Path_Finder, an intelligent career guidance system designed to
 ✅ Downloadable Personalized Career Report 📥
 
 
-# Tech Stack :
-Python 3
-Pandas
-Scikit-learn
-Joblib
-Streamlit
+# Tech Stack :  
+
+Python 3  
+
+Pandas   
+
+Scikit-learn  
+
+Joblib  
+
+Streamlit  
+
 FPDF
 
-#  Future Enhancements :
-1.Add real-time student feedback collection.
-2.Expand to career recommendations after 12th grade.
-3.Improve model performance using deep learning models.
+#  Future Enhancements :  
+
+1.Add real-time student feedback collection.  
+
+2.Expand to career recommendations after 12th grade.  
+
+3.Improve model performance using deep learning models.  
+
 4.Enhance UI design with custom themes.
